@@ -1,0 +1,65 @@
+#QUESTION1
+Enter your number32
+binary code is : [1, 0, 0, 0, 0, 0]
+100000Press any key to continue . . .
+
+
+#QUESTION2
+Select operation.
+1.Add
+2.Subtract
+3.Multiply
+4.Divide
+Enter choice(1/2/3/4): 2
+Enter first number: 1
+Enter second number: 2
+1.0 - 2.0 = -1.0
+Let's do next calculation? (yes/no): no
+Press any key to continue . . .
+
+
+
+#QUESTION3
+import math
+
+#Question3A
+ print((3+4)*5)
+#Question3B
+ print((n*(n-1)/2))
+#Question3C
+ print(4*3.14*r*r)
+#Question3D
+ print(math.sqrt((r*(math.cos(a)))**2+math.sqrt((r*(math.cos(b)))**2))
+#Question3E
+
+
+#QUESTION4
+0
+1
+2
+3
+4
+3
+4
+5
+6
+7
+8
+9
+4
+7
+10
+15
+13
+11
+9
+7
+Press any key to continue . . .
+
+
+#QUESTION5
+Enter number of hydrogen4
+Enter number of carbon5
+Enter number of oxygen6
+Molecular weight of carbohydtate is: 160.08166
+Press any key to continue .
